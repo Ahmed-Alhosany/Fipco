@@ -17,7 +17,7 @@ Live Website preview
 Screenshot
 -----------
 <p>
-  <img src="egyptfortravel.png" width="100%" />
+  <img src="425c8e85504449.5d7e30da75d99.png" width="100%" />
 </p>
 
 
